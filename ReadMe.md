@@ -11,7 +11,7 @@ I am also trying to do some small projects following with online tutorial, and r
 <p>
 <br/>
 <p align="center">
-<h3 style="text-align:center; margin-bottom:10px"><b>My skills includes:</b><h3>
+<h3 align="center" style="text-align:center; margin-bottom:10px"><b>My skills includes:</b><h3>
 HTML | CSS | Tailwind | JavaScript | React | Node.js | MySQL | MongoDB | Docker   
 <a href="https://skillicons.dev">
 <p><img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nodejs,mysql,mongodb,materialui,github,githubactions,docker," /></p>
