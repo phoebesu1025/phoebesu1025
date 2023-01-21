@@ -1,4 +1,5 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=👋+Welcome+to+Phoebe's+GitHub"/>
+
 <hr>
 <h2><b>🔹About </b></h2>
 <p>
@@ -9,7 +10,7 @@ Currently, I am the Assistant Trainer for Level 4 course in Mission Ready. I hol
 I am also trying to do some small projects following with online tutorial, and reviewing what I have learnt from the past.
 
 <br/>
-<h3 align="center" style="text-align:center; margin-bottom:10px"><b>My skills includes:</b><h3>
+<h3 align="center""><b>My skills includes:</b><h3>
  <p  align="center">HTML | CSS | Tailwind | JavaScript | React | Node.js | MySQL | MongoDB | Docker
 <p align="center"><a href="https://skillicons.dev" align="center">
 <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nodejs,mysql,mongodb,materialui,github,githubactions,docker"  />
@@ -25,4 +26,12 @@ I am also trying to do some small projects following with online tutorial, and r
 <hr>
 <h2><b>🔹Contact me</b></h2>
 <p >📧 phoebesu85@yahoo.com.tw </p>
-<a href="https://www.linkedin.com/in/phoebe-su/"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
+<a href="https://www.linkedin.com/in/phoebe-su/"><img src="https://skillicons.dev/icons?i=linkedin"/></a><br/><br/>
+<img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/62785817"/>
+<iframe
+  src="https://www.credential.net/embed/d1c3eab2-ab4a-4e0e-9455-15d8ee0227f1"
+  width="800"
+  height="600"
+  frameborder="0"
+  allowfullscreen>
+</iframe>
