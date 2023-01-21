@@ -21,7 +21,7 @@ I am also trying to do some small projects following with online tutorial, and r
 <p>👩🏻‍🍳 I am also a chef</P>
 <p>📜 Culinary Arts and Business Degree</p>
 <p>💕Hobbies:</p>
-<p style="margin-left:18px">💃🏻Dance, 🥊boxing, 🚶🏻‍♀️Walk/Hiking,  🎹🎻Music, 🎤Karaoke</p><br/>
+<p margin-left="18px">💃🏻Dance, 🥊boxing, 🚶🏻‍♀️Walk/Hiking,  🎹🎻Music, 🎤Karaoke</p><br/>
 
 <hr>
 <h2><b>🔹Contact me</b></h2>
