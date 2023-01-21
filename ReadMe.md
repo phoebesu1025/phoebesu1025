@@ -3,11 +3,11 @@
 <hr>
 <h2><b>🔹About </b></h2>
 <p>
-Hello guys!🙌🏻 My name is PEI-HSUAN SU, Phoebe! I have finished <u><b>Level 4 FullStack Developer course</b></u>, and currently studying in <u><b>Level 5 Software Development</b></u> at Mission Ready HQ Auckland, NewZealand. In mid February, I will be jumping into an internship and gain more industry experience. </br>
+Hello guys!🙌🏻 My name is PEI-HSUAN SU, Phoebe! I have finished Level 4 FullStack Developer course, and currently studying in Level 5 Software Development at Mission Ready HQ Auckland, New Zealand. In mid-February, I will be jumping into an internship and gaining more industry experience.
+Currently, I am the Assistant Trainer for Level 4 course in Mission Ready. I hold a buddy group to guide, support students and answer their questions.
 
-Currently, I am the Assistant Trainer for Level 4 course in Mission Ready. I hold a buddy group to guide, support students and answer their questions.</br>
+I am also trying to do some small projects, following an online tutorial, and reviewing what I have learnt.
 
-I am also trying to do some small projects following with online tutorial, and reviewing what I have learnt from the past.
 
 <br/>
 <h3 align="center""><b>My skills includes:</b><h3>
