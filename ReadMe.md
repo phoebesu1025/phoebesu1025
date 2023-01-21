@@ -13,8 +13,8 @@ I am also trying to do some small projects following with online tutorial, and r
 <p align="center">
 <h3 align="center" style="text-align:center; margin-bottom:10px"><b>My skills includes:</b><h3>
  <p  align="center">HTML | CSS | Tailwind | JavaScript | React | Node.js | MySQL | MongoDB | Docker</p> 
-<a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nodejs,mysql,mongodb,materialui,github,githubactions,docker"  align="center"/></p>
+<a href="https://skillicons.dev" align="center">
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nodejs,mysql,mongodb,materialui,github,githubactions,docker"  /></p>
 </a>
 </p>
 
