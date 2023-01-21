@@ -1,5 +1,5 @@
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=👋+Welcome+to+Phoebe's+GitHub"/>
-<h1> <h1>
+<h1> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=👋+Welcome+to+Phoebe's+GitHub"/>
+<h1>
 <h2><b>🔹About </b></h2>
 <p>
 Hello guys!🙌🏻 My name is PEI-HSUAN SU, Phoebe! I have finished <u><b>Level 4 FullStack Developer course</b></u>, and currently studying in <u><b>Level 5 Software Development</b></u> at Mission Ready HQ Auckland, NewZealand. In mid February, I will be jumping into an internship and gain more industry experience. </br>
@@ -18,7 +18,7 @@ HTML | CSS | Tailwind | JavaScript | React | Node.js | MySQL | MongoDB | Docker
 </a>
 </p>
 <br/>
-
+<h1></h1>
 <h2><b>🔹More about me</b></h2>
 <p>👩🏻‍🍳 I am also a chef</P>
 <p>📜 Culinary Arts and Business Degree</p>
