@@ -3,5 +3,5 @@
 <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,mysql,mongodb,materialui,nodejs,github,githubactions,docker," />
 </a>
 
-<img src="https://skillicons.dev/icons?i=linedin"/>
+<img src="https://skillicons.dev/icons?i=linkedin"/>
 </p>
