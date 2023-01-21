@@ -28,10 +28,3 @@ I am also trying to do some small projects following with online tutorial, and r
 <p >📧 phoebesu85@yahoo.com.tw </p>
 <a href="https://www.linkedin.com/in/phoebe-su/"><img src="https://skillicons.dev/icons?i=linkedin"/></a><br/><br/>
 <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/62785817"/>
-<iframe
-  src="https://www.credential.net/embed/d1c3eab2-ab4a-4e0e-9455-15d8ee0227f1"
-  width="800"
-  height="600"
-  frameborder="0"
-  allowfullscreen>
-</iframe>
