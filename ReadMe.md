@@ -5,4 +5,4 @@
 
 </p>
 
-<img src="https://skillicons.dev/icons?i=linedin/>
+<img src="https://skillicons.dev/icons?i=linedin"/>
