@@ -20,8 +20,7 @@ I am also trying to do some small projects following with online tutorial, and r
 <h2><b>🔹More about me</b></h2>
 <p>👩🏻‍🍳 I am also a chef</P>
 <p>📜 Culinary Arts and Business Degree</p>
-<p>💕Hobbies:</p>
-<p >&nbsp&nbsp&nbsp&nbsp💃🏻Dance, 🥊boxing, 🚶🏻‍♀️Walk/Hiking,  🎹🎻Music, 🎤Karaoke</p><br/>
+<p>💕Hobbies:</br>&nbsp&nbsp&nbsp&nbsp💃🏻Dance, 🥊boxing, 🚶🏻‍♀️Walk/Hiking,  🎹🎻Music, 🎤Karaoke</p><br/>
 
 <hr>
 <h2><b>🔹Contact me</b></h2>
