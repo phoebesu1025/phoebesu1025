@@ -3,8 +3,19 @@
 <hr>
 <h2><b>🔹About </b></h2>
 <p>
-Hello guys!🙌🏻 My name is PEI-HSUAN SU, Phoebe! I have finished Level 4 FullStack Developer course, and currently studying in Level 5 Software Development at Mission Ready HQ Auckland, New Zealand. In mid-February, I will be jumping into an internship and gaining more industry experience.
-Currently, I am the Assistant Trainer for Level 4 course in Mission Ready. I hold a buddy group to guide, support students and answer their questions.
+Hello guys!🙌🏻 My name is PEI-HSUAN SU, Phoebe!
+- career changer who swaps fields from Culinary Arts👩🏻‍🍳 to Tech👩🏻‍💻.
+
+I am currently working as an intern Software Developer and developing a mobile app for the MPTT (Maori Pacifika Trade Training) project with The Southern Initiative(Tāmaki Herehere ki te Tonga) under Auckland Council.
+
+Apart from the internship position, I am also an Assistant Trainer for the Level 4 Full-stack Developer course in Mission Ready, Auckland. 
+
+✅Please feel free to connect with me on LinkedIn😊
+
+✅Please also check my GitHub: 
+ github.com/phoebesu1025
+
+#react #tailwind #node.js #mongoDB #MySQL #javascript
 
 I am also trying to do some small projects, following an online tutorial, and reviewing what I have learnt.
 
@@ -27,4 +38,5 @@ I am also trying to do some small projects, following an online tutorial, and re
 <h2><b>🔹Contact me</b></h2>
 <p >📧 phoebesu85@yahoo.com.tw </p>
 <a href="https://www.linkedin.com/in/phoebe-su/"><img src="https://skillicons.dev/icons?i=linkedin"/></a><br/><br/>
+<img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/68683910"/>
 <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/62785817"/>
