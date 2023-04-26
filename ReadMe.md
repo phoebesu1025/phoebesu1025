@@ -14,9 +14,6 @@ Hello🙋🏻‍♀️, I'm Phoebe, a former chef👩🏻‍🍳 turned software
 
 ✅Please feel free to connect with me on LinkedIn😊
 
-✅Please also check my GitHub: 
- github.com/phoebesu1025
-
 #react #tailwind #node.js #mongoDB #MySQL #javascript
 
 <br/>
