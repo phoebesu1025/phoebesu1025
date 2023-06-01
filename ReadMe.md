@@ -34,5 +34,6 @@ Hello🙋🏻‍♀️, I'm Phoebe, a former chef👩🏻‍🍳 turned software
 <h2><b>🔹Contact me</b></h2>
 <p >📧 phoebesu85@yahoo.com.tw </p>
 <a href="https://www.linkedin.com/in/phoebe-su/"><img src="https://skillicons.dev/icons?i=linkedin"/></a><br/><br/>
+<img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/73677858"/>
 <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/68683910"/>
 <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/62785817"/>
