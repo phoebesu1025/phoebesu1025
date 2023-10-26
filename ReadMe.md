@@ -5,7 +5,7 @@
 <p>
 Hello🙋🏻‍♀️, I'm Phoebe, a former chef👩🏻‍🍳 turned software developer👩🏻‍💻 with a passion for creating innovative solutions that solve real-world problems. After working in the culinary industry for several years, I decided to switch careers and pursue my interest in technology.</p>
 
-<p>Currently, I am an assistant trainer at Mission Ready HQ, where I help aspiring developers to learn and grow their skills. I also recently completed an internship with Auckland Council's The Southern Initiative, where I gained hands-on experience in creating and implementing mobile apps.</p>
+<p>Currently, I am a trainer at Mission Ready HQ, where I help aspiring developers to learn and grow their skills. I also completed an internship with Auckland Council's The Southern Initiative, where I gained hands-on experience in creating and implementing mobile apps.</p>
 
 
 <p>In my free time, I enjoy pursuing a variety of hobbies, including singing, dancing, video editing, and going for long walks. I believe that having a diverse range of interests helps me to stay creative and think outside the box in my work as a developer.</p>
